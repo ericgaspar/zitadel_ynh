@@ -14,7 +14,6 @@ maintainers = ["eric_G"]
 [upstream]
 license = "Apache-2.0"
 website = "https://zitadel.com"
-demo = "https://demo.example.com"
 admindoc = "https://zitadel.com/docs/self-hosting/deploy/overview"
 code = "https://github.com/zitadel/zitadel"
 
@@ -22,7 +21,7 @@ code = "https://github.com/zitadel/zitadel"
 yunohost = ">= 12.0.9"
 helpers_version = "2.1"
 architectures = ["amd64", "arm64"]
-multi_instance = true
+multi_instance = false
 
 ldap = false
 sso = false

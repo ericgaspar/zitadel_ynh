@@ -5,7 +5,7 @@ packaging_format = 2
 id = "zitadel"
 name = "Zitadel"
 description.en = "Identity infrastructure"
-description.fr = " Infrastructure d'identité"
+description.fr = "Infrastructure d'identité"
 
 version = "2.70.0~ynh1"
 
@@ -16,7 +16,6 @@ license = "Apache-2.0"
 website = "https://zitadel.com"
 demo = "https://demo.example.com"
 admindoc = "https://zitadel.com/docs/self-hosting/deploy/overview"
-userdoc = "https://yunohost.org/apps"
 code = "https://github.com/zitadel/zitadel"
 
 [integration]

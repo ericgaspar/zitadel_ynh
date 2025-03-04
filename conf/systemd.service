@@ -1,5 +1,5 @@
 [Unit]
-Description=Zitadele
+Description=Zitadele: identity infrastructure
 After=network.target
 
 [Service]

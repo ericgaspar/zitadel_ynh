@@ -43,7 +43,6 @@ ram.runtime = "50M"
     [resources.sources]
 
     [resources.sources.main]
-    in_subdir = false
     amd64.url = "https://github.com/zitadel/zitadel/releases/download/v2.70.0/zitadel-linux-amd64.tar.gz"
     amd64.sha256 = "9b63ae4be4b967165b8a0d7964f8d67b1573c5a8962cb0b5a2e1f9367d9c1073"
     arm64.url = "https://github.com/zitadel/zitadel/releases/download/v2.70.0/zitadel-linux-arm64.tar.gz"
